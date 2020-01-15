@@ -1,0 +1,29 @@
+bb-gbc.blackboard.com
+
+IP Address: 69.196.236.11
+
+Geolocation: US (United States), DC, District of Columbia, 20036 Washington - Google Maps
+
+gmail.com
+
+IP Address: 172.217.6.229
+
+Geolocation: US (United States), CA, California, 94043 Mountain View - Google Maps
+
+tesla.com
+
+IP Address: 199.66.11.62
+
+Geolocation: US (United States), NY, New York, 10022 New York - Google Maps
+
+xbox.com
+
+IP Address: 40.112.72.205
+
+Geolocation: IE (Ireland), 07, Dublin, D02 Dublin - Google Maps
+
+mallas-redes.net
+
+IP Address: 192.254.235.193
+
+Geolocation: US (United States), TX, Texas, 77092 Houston - Google Maps

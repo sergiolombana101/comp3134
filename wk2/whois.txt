@@ -1,0 +1,189 @@
+Name: github.com
+Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+ns-1283.awsdns-32.org
+
+ns-1707.awsdns-21.co.uk
+
+ns1.p16.dynect.net
+
+ns2.p16.dynect.net
+
+ns3.p16.dynect.net
+
+ns-421.awsdns-52.com
+
+ns4.p16.dynect.net
+
+ns-520.awsdns-01.net
+
+Dates
+Registry Expiration: 2020-10-09 18:20:50 UTC
+Registrar Expiration: 2020-10-09 18:20:50 UTC
+Created: 2007-10-09 18:20:50 UTC
+Contact Information
+Registrant:
+Organization: GitHub, Inc.
+Mailing Address: CA, US
+Technical:
+Mailing Address: CA, US
+Administrative:
+Mailing Address: CA, US
+Redacted for privacy: some of the data in this object has been removed.
+
+Registrar Information
+Name: MarkMonitor Inc.
+IANA ID: 292
+Abuse Contact Email: abusecomplaints@markmonitor.com
+Abuse Contact Phone: +1.2083895770
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/github.com
+Last updated from Registry RDAP DB: 2020-01-15 06:45:09 UTC
+Registrar Server URL: https://rdap.markmonitor.com/rdap/domain/GITHUB.COM
+Last updated from Registrar RDAP DB: 2020-01-15 12:25:49 UTC
+
+
+Name: davidlaid.com
+Registry Domain ID: 1849402300_DOMAIN_COM-VRSN
+Domain Status:
+clientTransferProhibited
+Dates
+Registry Expiration: 2020-03-06 19:00:17 UTC
+Registrar Expiration: 2020-03-06 19:00:17 UTC
+Created: 2014-03-06 19:00:17 UTC
+Contact Information
+Registrant:
+Registrar Information
+Abuse Contact Email: i
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/davidlaid.com
+Last updated from Registry RDAP DB: 2020-01-15 06:45:09 UTC
+Registrar Server URL: https://rdap.ionos.com/domain/DAVIDLAID.COM
+Last updated from Registrar RDAP DB: 2020-01-15 12:27:41 UTC
+
+
+Name: reddit.com
+Registry Domain ID: 153584275_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Nameservers:
+ns-1029.awsdns-00.org
+
+ns-1887.awsdns-43.co.uk
+
+ns-378.awsdns-47.com
+
+ns-557.awsdns-05.net
+
+Dates
+Registry Expiration: 2020-04-29 17:59:19 UTC
+Registrar Expiration: 2020-04-29 17:59:19 UTC
+Created: 2005-04-29 17:59:19 UTC
+Contact Information
+Registrant:
+Organization: Reddit Inc.
+Mailing Address: CA, US
+Technical:
+Mailing Address: CA, US
+Administrative:
+Mailing Address: CA, US
+Redacted for privacy: some of the data in this object has been removed.
+
+Registrar Information
+Name: MarkMonitor Inc.
+IANA ID: 292
+Abuse Contact Email: abusecomplaints@markmonitor.com
+Abuse Contact Phone: +1.2083895770
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/reddit.com
+Last updated from Registry RDAP DB: 2020-01-15 06:46:11 UTC
+Registrar Server URL: https://rdap.markmonitor.com/rdap/domain/REDDIT.COM
+Last updated from Registrar RDAP DB: 2020-01-15 12:27:57 UTC
+
+
+
+Name: bodybuilding.com
+Registry Domain ID: 3716074_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Nameservers:
+ns1.bodybuilding.com
+
+ns2.bodybuilding.com
+
+ns3.bodybuilding.com
+
+ns4.bodybuilding.com
+
+ns5.bodybuilding.com
+
+Dates
+Registry Expiration: 2024-02-16 05:00:00 UTC
+Registrar Expiration: 2024-02-16 05:00:00 UTC
+Created: 1999-02-16 05:00:00 UTC
+Contact Information
+Registrant:
+Organization: Bodybuilding.com
+Mailing Address: ID, US
+Technical:
+Mailing Address: ID, US
+Administrative:
+Mailing Address: ID, US
+Redacted for privacy: some of the data in this object has been removed.
+
+Registrar Information
+Name: MarkMonitor Inc.
+IANA ID: 292
+Abuse Contact Email: abusecomplaints@markmonitor.com
+Abuse Contact Phone: +1.2083895770
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/bodybuilding.com
+Last updated from Registry RDAP DB: 2020-01-15 06:45:09 UTC
+Registrar Server URL: https://rdap.markmonitor.com/rdap/domain/BODYBUILDING.COM
+Last updated from Registrar RDAP DB: 2020-01-15 12:27:57 UTC
+
+Name: GEORGEBROWN.COM
+Registry Domain ID: 5269176_DOMAIN_COM-VRSN
+Domain Status:
+clientTransferProhibited
+Nameservers:
+NS41.WORLDNIC.COM
+
+NS42.WORLDNIC.COM
+
+Dates
+Registry Expiration: 2021-01-10 05:00:00 UTC
+Created: 1998-01-11 05:00:00 UTC
+Registrar Information
+Name: Network Solutions, LLC
+IANA ID: 2
+Abuse Contact Email: abuse@web.com
+Abuse Contact Phone: tel:+1.8003337680
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/georgebrown.com
+Last updated from Registry RDAP DB: 2020-01-15 06:45:09 UTC
+Registrar Server URL: https://rdap.networksolutions.com/rdap/domain/GEORGEBROWN.COM

@@ -1,0 +1,48 @@
+#1
+Nmap scan report for github.com (140.82.114.4)
+Host is up (0.016s latency).
+rDNS record for 140.82.114.4: lb-140-82-114-4-iad.github.com
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+443/tcp  open  https
+9418/tcp open  git
+
+Nmap done: 1 IP address (1 host up) scanned in 24.76 seconds
+
+#2
+Nmap scan report for github.com (140.82.114.3)
+Host is up (0.017s latency).
+rDNS record for 140.82.114.3: lb-140-82-114-3-iad.github.com
+
+PORT     STATE    SERVICE
+8080/tcp filtered http-proxy
+
+Nmap done: 1 IP address (1 host up) scanned in 0.51 seconds
+
+#3
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 18:09 UTC
+Nmap scan report for github.com (192.30.253.113)
+Host is up (0.018s latency).
+rDNS record for 192.30.253.113: lb-192-30-253-113-iad.github.com
+Not shown: 200 filtered ports
+PORT    STATE SERVICE
+443/tcp open  https
+
+#4
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 18:10 UTC
+Nmap scan report for github.com (140.82.114.4)
+Host is up (0.017s latency).
+rDNS record for 140.82.114.4: lb-140-82-114-4-iad.github.com
+Not shown: 97 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 3.65 seconds
+
+

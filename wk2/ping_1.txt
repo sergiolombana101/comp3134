@@ -1,0 +1,3 @@
+--- 69.196.236.11 ping statistics ---
+16 packets transmitted, 16 received, 0% packet loss, time 15026ms
+rtt min/avg/max/mdev = 53.717/53.885/54.896/0.357 ms
