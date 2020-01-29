@@ -1,0 +1,92 @@
+FTP: FILTERED
+
+	COMMAND :  nmap -p 21 104.255.105.98
+	OUTPUT : Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 17:27 UTC
+		 Nmap scan report for 104.255.105.98
+		 Host is up (0.013s latency).
+
+		 PORT   STATE    SERVICE
+		 21/tcp filtered ftp
+
+SSH: FILTERED
+	
+	COMMAND :  nmap -p 22 104.255.105.98
+	OUTPUT: Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 17:29 UTC
+		Nmap scan report for 104.255.105.98
+		Host is up (0.013s latency).
+
+		PORT   STATE    SERVICE
+		22/tcp filtered ssh
+
+TELNET: FILTERED
+
+	COMMAND :  nmap -p 23 104.255.105.98
+	OUTPUT : Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 17:30 UTC
+		Nmap scan report for 104.255.105.98
+		Host is up (0.013s latency).
+
+		PORT   STATE    SERVICE
+		23/tcp filtered telnet
+
+
+SMTP : FILTERED
+
+	COMMAND :  nmap -p 25 104.255.105.98
+	OUTPUT: Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 17:31 UTC
+		Nmap scan report for 104.255.105.98
+		Host is up (0.012s latency).
+
+		PORT   STATE    SERVICE
+		25/tcp filtered smtp
+
+
+DNS: FILTERED
+
+	COMMAND :  nmap -p 53 104.255.105.98
+	OUTPUT : Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 17:36 UTC
+		Nmap scan report for 104.255.105.98
+		Host is up (0.012s latency).
+
+		PORT   STATE    SERVICE
+		53/tcp filtered domain
+
+HTTP : OPEN
+
+	COMMAND :  nmap -p 80 104.255.105.98
+	OUTPUT : Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 17:39 UTC
+		Nmap scan report for 104.255.105.98
+		Host is up (0.012s latency).
+
+		PORT   STATE SERVICE
+		80/tcp open  http
+
+POP3 : FILTERED
+
+	COMMAND :  nmap -p 110 104.255.105.98
+	OUTPUT : Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 17:39 UTC
+		Nmap scan report for 104.255.105.98
+		Host is up (0.012s latency).
+
+		PORT    STATE    SERVICE
+		110/tcp filtered pop3
+
+IMAP: FILTERED
+
+	COMMAND :  nmap -p 143 104.255.105.98
+	OUTPUT : Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 17:40 UTC
+		Nmap scan report for 104.255.105.98
+		Host is up (0.013s latency).
+
+		PORT    STATE    SERVICE
+		143/tcp filtered imap
+
+MYSQL: OPEN
+
+	COMMAND :  nmap -p 3306 104.255.105.98
+	OUTPUT : Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 17:41 UTC
+		Nmap scan report for 104.255.105.98
+		Host is up (0.013s latency).
+
+		PORT     STATE    SERVICE
+		3306/tcp filtered mysql
+

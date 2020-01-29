@@ -1,0 +1,25 @@
+Rockstar is currently seeking an Animation Programmer with an interest in researching Computer Vision and Machine Learning.
+
+We are looking for a talented engineer to help us develop advanced facial performance capture, animation, and rigging technology for our character based games. You should have strong initiative, a detailed knowledge of image processing, photogrammetry, and machine/deep learning techniques, as well as an interest in realistic, high quality facial performance capture.
+
+RESPONSIBILITIES
+Research, develop, maintain, extend, and support a wide range of facial image processing and surface reconstruction, animation, and rigging performance capture technology, editing pipelines, tools, and runtime systems.
+Join our core animation technology team and work closely with performance capture, animation, rigging, technical art, and tools teams across different Rockstar studios.
+Keep up to date with the latest academic and industry breakthroughs, independently research and develop improvements to continuously push our technology forward.
+REQUIREMENTS
+A degree in Computer Science or a related discipline, or equivalent industry experience.
+Expertise in image processing and computer vision techniques, photogrammetry, surface reconstruction, and mesh geometry.
+Practical success in data engineering, applying the latest machine learning / deep learning (ML/DL) approaches to production scale problems.
+Strong Python programming skills, and a 3D math background.
+Knowledge of existing facial capture approaches, FACS poses, facial blend shape rigs, feature detection, etc.
+Experience developing within a large existing codebase, collaborating or working independently within a large team.
+Good communication skills, ability to clearly share complex technical information with programmers, technical artists, animators, and riggers.
+DESIRED
+Industry experience working on AAA character based games, or character based VFX animation.
+C/C++ and C# programming skills.
+Exposure to relational databases (SQL), large scale data management, or data modelling/engineering problems.
+Proficiency in animating or rigging (using skeletal bones or blend shapes) in 3DS Max, Maya, or Blender, etc.
+Familiarity with optimization and multi-threading techniques.
+Experience writing GPU shaders, or with GPGPU programming (CUDA, OpenCL etc).
+Strong R&D mindset, adept at taking the initiative on researching and experimenting with new ideas, solutions, and technologies.
+Passion for character based games, good eye for facial performance capture.

@@ -1,0 +1,16 @@
+4) COMMAND : ping 104.255.105.98
+   OUTPUT : 
+	   PING 104.255.105.98 (104.255.105.98) 56(84) bytes of data.
+
+	   --- 104.255.105.98 ping statistics ---
+	   7 packets transmitted, 0 received, 100% packet loss, time 6149ms
+
+
+
+5) COMMAND:  traceroute 104.255.105.98
+   OUTPUT : traceroute to 104.255.105.98 (104.255.105.98), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.78.4.0 (10.78.4.0)  1.869 ms 10.78.4.4 (10.78.4.4)  1.974 ms 10.78.4.0 (10.78.4.0)  1.846 ms
+ 3  138.197.249.78 (138.197.249.78)  1.829 ms 138.197.249.86 (138.197.249.86)  1.809 ms 138.197.249.90 (138.197.249.90)  1.903 ms
+ 4  zayo.ip4.torontointernetxchange.net (206.108.35.76)  2.029 ms  2.027 ms  1.982 ms
+ 5  zayo.ip4.torontointernetxchange.net (206.108.35.76)  1.948 ms  1.919 ms  1.890 ms

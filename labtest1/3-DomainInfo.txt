@@ -1,0 +1,22 @@
+Domain Name: ROCKSTARGAMES.COM
+Registry Domain ID: 2603395_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-07-11T22:56:17Z
+Creation Date: 1998-12-01T05:00:00Z
+Registry Expiry Date: 2022-11-30T05:00:00Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: DNS1.P05.NSONE.NET
+Name Server: DNS2.P05.NSONE.NET
+Name Server: DNS3.P05.NSONE.NET
+Name Server: DNS4.P05.NSONE.NET
+Name Server: NS01.VANDALAY-INDUSTRIES.NET
+Name Server: NS02.VANDALAY-INDUSTRIES.NET
+Name Server: NS03.VANDALAY-INDUSTRIES.NET
+Name Server: NS04.VANDALAY-INDUSTRIES.NET
