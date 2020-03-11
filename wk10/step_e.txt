@@ -1,0 +1,6 @@
+I fixed the first problem by scanning if the length of the array returned by scandir() was greater than 3 which means
+that the get parameter wanted to access a directory outside the current one also by checking that the last index of that
+array was not equal to 'html'
+
+I fixed the second problem by checking if the filename passed existed in the application structure. If it didnt I would
+I would restrict the access.

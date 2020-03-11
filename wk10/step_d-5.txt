@@ -1,0 +1,2 @@
+The page returns the file structure up to the html directory in form of an array
+An attacker could make an idea of what files are currently in the directory to get access to the application

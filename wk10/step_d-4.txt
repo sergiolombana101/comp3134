@@ -1,0 +1,2 @@
+The page returns an array with the directories found of the root of the var folder. 
+The page returns sensitive information about the directories found in the application

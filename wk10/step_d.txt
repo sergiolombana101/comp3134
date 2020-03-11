@@ -1,0 +1,5 @@
+The php script tries to scan the directory with the scandir() method passing the url parameter as the argument.
+The code fails since there is no directory with the name hello
+
+This is a risk since an attacker could issue different requests with different values for 'q' to get information about the
+file structure of the application.
