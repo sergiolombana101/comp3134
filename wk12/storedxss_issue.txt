@@ -1,0 +1,2 @@
+The issue is that the text file has a script that redirects the state of the page to another file inside the server.
+An attacker could exploit this by adding a txt file into the server to access other files in the folder tree.

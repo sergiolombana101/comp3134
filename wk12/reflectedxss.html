@@ -1,0 +1,16 @@
+<h1>Reflected XSS</h1>
+<form>
+    <input id="text" type="text" name="text_input">
+    <input type="submit" id="submit" value="Submit">
+    <div id="output"></div>
+</form>
+
+<script>
+    document.getElementById("submit").onclick = function(event){
+        event.preventDefault();
+        let text = document.getElementById("text");
+        document.getElementById("output").innerHTML = text.value;
+
+
+    }
+</script>

