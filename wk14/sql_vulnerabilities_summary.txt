@@ -1,0 +1,10 @@
+
+G.	
+
+1. For the first scenario. The php script queries an exact value and returns all the column values for that row.
+   All the data related to that user is visible now
+2. The query returned the same values as if the name was passed normally. It didn't affect at all that the search
+   parameters had extra characters in it. My guess would be that there was not any difference from point 1 since the single
+   quote closed the query string so MySQL ignored the rest.
+3. I expected the query to return all the rows in the table. However, this was not the case since I have single quotes 
+   around the varible inside the php script. This was the only way i could make the script to return the correct values.
