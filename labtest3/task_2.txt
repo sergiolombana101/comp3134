@@ -1,0 +1,5 @@
+Task 2
+
+Command used:
+ 
+ curl -X GET https://www.reddit.com/search/?q=INFORMATION

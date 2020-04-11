@@ -1,0 +1,26 @@
+Task 3
+
+Domain: dictionary.com
+
+Script used:
+
+let inputs = document.getElementsByTagName('input');
+for(let x = 0; x<inputs.length;x++){
+   console.log("Name: "+inputs[x].name+", value: "+inputs[x].value)
+}
+
+console.log("Form method: "+ inputs[0].parentNode.parentNode.method);
+
+Result:
+
+Name: override_query, value: 
+Name: list, value: WOTD
+Name: email, value:
+Name: list, value: WOTD
+Name: email, value: 
+
+"get"
+
+
+
+

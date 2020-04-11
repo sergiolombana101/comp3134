@@ -1,0 +1,11 @@
+Task 1
+
+domain: dictionary.com
+
+let nodes = document.childNodes;
+
+for(let x = 0; x< nodes.length; x++){
+	if(nodes[x].nodeType == 8){
+		console.log(nodes[x]);
+	}
+}
